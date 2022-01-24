@@ -1,0 +1,32 @@
+_repo: Master-Olofs-brollop_67220
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Starbäck, C. Georg (Carl Georg)
+    aliases:
+    - Carl Georg Starbäck
+    - Starback, C. Georg (Carl Georg)
+    - Starbäck, Georg
+    - Starbäck, Carl Georg
+    birthdate: 1828
+    deathdate: 1885
+    gutenberg_agent_id: '45593'
+    url: http://www.gutenberg.org/2009/agents/45593
+description: ''
+gutenberg_issued: '2022-01-22'
+identifiers:
+  gutenberg: '67220'
+language: sv
+pgterms:marc905: 20120424135800starbck
+pgterms:marc906: '1922'
+pgterms:marc907: se
+production_note: Gun-Britt Carlsson, Eva Eriksson, Jens Sadowski, and the Online Distributed
+  Proofreading Team at https://www.pgdp.net
+publication_note: Sweden :Fösrlagsaktiebolaget Hemmet,1922.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Mäster Olofs bröllop
+url: http://www.gutenberg.org/ebooks/67220
