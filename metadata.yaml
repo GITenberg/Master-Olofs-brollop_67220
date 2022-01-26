@@ -1,5 +1,8 @@
 _repo: Master-Olofs-brollop_67220
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 67220-h/images/cover.jpg
 creator:
   author:
     agent_name: Starbäck, C. Georg (Carl Georg)
@@ -13,6 +16,8 @@ creator:
     gutenberg_agent_id: '45593'
     url: http://www.gutenberg.org/2009/agents/45593
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/67220#Master-Olofs-brollop
 gutenberg_issued: '2022-01-22'
 identifiers:
   gutenberg: '67220'
